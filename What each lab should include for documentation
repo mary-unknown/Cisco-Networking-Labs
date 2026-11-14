@@ -1,0 +1,12 @@
+Each lab should include three files:
+  1. topology.png
+  2. .pkt file
+  3. README.md 
+
+The details:
+1. Objective: What are you trying to accomplish?
+2. Topology: Screenshot of your Packet TRacer network
+3. IP Addressing Table: Devices, interfaces, and IP addresses
+4. Configuration: Important Cisco IOS commands/configuration details
+5. Verification: Screenshots of successful ping tests and show commands
+6. Troubleshooting: Problems encountered and how you resolved them
